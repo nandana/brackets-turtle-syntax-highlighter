@@ -2,7 +2,7 @@
     "name": "turtle",
     "title": "Turtle Syntax Highlighter",
     "description": "Add syntax highlighting support for the Turtle language (.ttl).",
-    "homepage": "https://github.com/automenta/brackets-jsx",
+    "homepage": "https://github.com/nandana/brackets-turtle-syntax-highlighter",
     "version": "1.0.0",
     "author": "Nandana (http://github.com/nandana)",
     "license": "Apache",
